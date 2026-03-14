@@ -9,7 +9,7 @@ tags:
   - second-brain
 ---
 
-## [[obsidian]] structure
+## [[Obsidian]] structure
 second brain
 - 0 inbox
 - 1 project
