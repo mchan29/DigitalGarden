@@ -1,12 +1,10 @@
 Welcome to  my [[Digital Garden]]. Read my blogs at [chandu.cc](https://chandu.cc/)
+What i am thinking about? [[Inbox]]
 
 ### [[Naval Ravikant]]
 
 > [!quote] Seek wealth, not money or status.
 > Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth, while status is your rank in the social hierarchy.
-
-> [!quote] You're not going to get rich renting out your time.
-> You must own equity, a piece of a business, to gain your financial freedom.
 
 > [!quote] You will get rich by giving society what it wants, but does not yet know how to get.
 > You must do this at scale.
