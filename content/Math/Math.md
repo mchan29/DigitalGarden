@@ -2,3 +2,5 @@
 Discrete Math
 
 Calculus
+
+Statistics

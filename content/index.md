@@ -1,4 +1,4 @@
-Welcome to  my [[Digital Garden]].
+Welcome to  my [[Digital Garden]]. Read my blogs at [chandu.cc](https://chandu.cc/)
 
 ### [[Naval Ravikant]]
 
