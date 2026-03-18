@@ -1,0 +1,5 @@
+**Keystone habits** are specific, daily actions that serve as the *foundational layer of a productive life*. They are carefully selected, tractable habits that you return to every single day to fundamentally change your **self-identity** from someone who only does what is easy, to someone who can do **hard things** that are important. Cal Newport breaks these down into three crucial categories to focus on for maximum impact:
+
+- **Body:** A **fitness or health habit** to ensure physical health. This could involve **exercise**, or making intentional choices about **food and drink** to fuel your body properly.
+- **Mind:** A habit designed to make your mind **sharper**. This is about training your brain as an instrument, likely built around **consistent reading** to engage with complex ideas.
+- **Heart:** A regular habit dedicated to **nurturing relationships** with friends or family. This could be as simple as **calling, texting, or emailing** a different person each day to maintain connection.

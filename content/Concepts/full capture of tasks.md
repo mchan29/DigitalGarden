@@ -1,0 +1,5 @@
+**Full capture** is a foundational practice within **multiscale planning** designed to *alleviate mental stress and improve organizational focus*. It is based on a method popularized by _[[David Allen]]_.
+
+- **The Problem:** Many people try to manage their obligations, ideas, and tasks solely by remembering them, which leads to anxiety and missed deadlines.
+- **The Solution:** You must **write down every single obligation**, task, idea, or project into a **trusted system** outside of your own head. This means using a notebook, app, or calendar to store this information.
+- **The Goal:** By capturing everything externally, you eliminate **open loops**—the nagging feeling that you've forgotten something important. This allows your brain to focus entirely on executing the task at hand rather than trying to remember what else needs to be done.
