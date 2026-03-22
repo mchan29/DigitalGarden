@@ -1,6 +1,5 @@
 Active Tracking
 
-
 # Todo
 Actively Used Knowledge
 - [ ] Add Research
@@ -30,7 +29,6 @@ Actively Used Knowledge
 - [ ] Morning Pages, Logs, Brain Dumps.
 - [ ] Digital Marketing
 - [ ] Content Creation 
-- [ ] 
 
 ## Writings
 
@@ -44,8 +42,6 @@ Actively Used Knowledge
 - [ ] Blog Projects.
 - [ ] Open Source Projects.
 	- [ ] Implementing Research Papers
-
-
 ## Blog Ideas
 
 - [ ] LLM Inference Engine.
@@ -53,4 +49,3 @@ Actively Used Knowledge
 - [ ] Distributed Systems Research Papers
 - [ ] Database Research Papers
 - [ ] How todo Research? How to write Research Paper?
-- [ ] 
