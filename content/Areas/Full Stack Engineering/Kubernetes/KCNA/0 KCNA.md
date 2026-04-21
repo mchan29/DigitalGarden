@@ -1,0 +1,20 @@
+# Kubernetes Fundamentals - 44%
+Kubernetes Core Concepts
+Administration
+Scheduling
+Containerization
+
+# Container Orchestration - 28%
+Networking
+Security
+Troubleshooting
+Storage
+
+# Cloud Native Application Delivery - 16%
+Application Delivery
+Debugging
+
+# Cloud Native Architecture - 12%
+Observability
+Cloud Native Ecosystem and Principles
+Cloud Native Community and Collaboration
