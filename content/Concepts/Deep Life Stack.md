@@ -3,9 +3,7 @@ Cal Newport introduces **"The Deep Life Stack 2.0"**, a revised framework for *c
 The new stack is divided into two main stages:
 
 # Become a Capable Human Being
-
 **Stage 1: Become a Capable Human Being** This stage focuses on establishing foundational habits and control in your life:
-
 - **Discipline**: Implement daily "[[Keystone habits]]" across three categories:
     - **Body**: A fitness habit (e.g., exercise, healthy eating).
     - **Mind**: A habit to *sharpen your mind*, primarily through reading.
@@ -16,9 +14,7 @@ The new stack is divided into two main stages:
 
 ---
 # Cultivate Dept
-
 **Stage 2: Cultivate Depth**  Once Stage 1 is complete, this stage focuses on higher-order pursuits:
-
 - **Values**: Identify your [[core values]] and establish *rituals* that connect you to them.
 - **Service**: Actively serve others and your community, taking on leadership roles.
 - **Transformation**: Make significant, [[values-based changes]] to your lifestyle, like changing jobs or moving. This is where "remarkable" shifts occur.

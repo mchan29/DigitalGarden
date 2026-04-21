@@ -3,9 +3,11 @@ Active Tracking
 # Todo
 Actively Used Knowledge
 - [ ] Add Research
+- [x] Cloud Networking
 - [ ] Computer Science.
 - [ ] Math.
 - [ ] English Language
+	- [ ] Reading Strategy
 
 # Ideas to write about
 
@@ -29,6 +31,11 @@ Actively Used Knowledge
 - [ ] Morning Pages, Logs, Brain Dumps.
 - [ ] Digital Marketing
 - [ ] Content Creation 
+- [ ] Self-Hacking brain (Self-Referential Encoding)
+	- [ ] Dual Coding
+	- [ ] Elaborative Interrogation
+	- [ ] The Generation Effect
+	- [ ] The Enactment Effect
 
 ## Writings
 
@@ -38,6 +45,9 @@ Actively Used Knowledge
 ## Projects
 
 - [ ] Certification.
+	- [ ] KCNA
+	- [ ] CKAD
+	- [ ] CKA
 - [ ] Side Projects ( Closed Source ).
 - [ ] Blog Projects.
 - [ ] Open Source Projects.
@@ -46,6 +56,5 @@ Actively Used Knowledge
 
 - [ ] LLM Inference Engine.
 - [ ] Arena Based Memory Management.
-- [ ] Distributed Systems Research Papers
-- [ ] Database Research Papers
-- [ ] How todo Research? How to write Research Paper?
+- [ ] [[0 Distributed Systems Concepts]]. 
+- [ ] Database Research Papers.

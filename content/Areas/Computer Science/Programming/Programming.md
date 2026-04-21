@@ -20,3 +20,32 @@ Garbage Collection
 
 [[Memory Allocation]]
 
+[[Kernel]]
+
+_Zero Copy Architecture_
+Shared Memory
+Scatter-Gather I/O
+
+_Data Structures_
+Ring Buffers
+
+Lock-Free Queues
+
+Memory Pools
+
+
+
+_CPU & Memory Optimization_
+
+Busy Polling
+
+Core Pinning
+
+NUM Awareness
+
+HugePages
+
+
+
+
+

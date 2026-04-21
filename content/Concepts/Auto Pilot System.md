@@ -8,7 +8,6 @@ tags:
   - Routine
   - second-brain
 ---
-
 ## [[Obsidian]] structure
 second brain
 - 0 inbox
@@ -31,3 +30,6 @@ second brain
 		- organize
 		- review
 		- reflect
+
+## Related
+[[Autopilot]]

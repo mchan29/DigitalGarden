@@ -6,8 +6,10 @@ Data Structures
 Distributed Systems
 System Design
 Databases
-Networking
-Cloud
+[[Networking]]
+[[Cloud]]
+Cryptography
+Blockchain
 
 ## Specific Area of Interest
 
@@ -21,6 +23,7 @@ JavaScript Engine
 
 Object Oriented Design
 Data Oriented Design
+Design Patterns
 
 Arena Based Memory Allocation
 
@@ -33,3 +36,14 @@ GitHub
 Git
 
 Linux
+
+Microservices 
+
+Microservices Design Patterns
+Cloud Design Patterns
+Kubernetes Design Patterns
+
+
+
+
+

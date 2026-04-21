@@ -1,6 +1,0 @@
-
-Discrete Math
-
-Calculus
-
-Statistics
