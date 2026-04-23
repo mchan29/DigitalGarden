@@ -8,7 +8,7 @@
 
 ### Manage Azure identities and governance (20–25%)
 
-#### Manage Microsoft Entra users and groups
+#### [[Manage Microsoft Entra users and groups]]
 
 - Create users and groups
 - Manage user and group properties

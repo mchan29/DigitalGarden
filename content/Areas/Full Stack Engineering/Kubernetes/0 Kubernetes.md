@@ -1,18 +1,14 @@
 # Concepts
 
-Namespace
-
-Kubernetes Storage
-
-Kubernetes Networking
-
-Kubernetes Architecture
-
-Kubernetes Patterns
+1. Namespace
+2. Kubernetes Storage
+3. Kubernetes Networking
+4. Kubernetes Architecture
+5. Kubernetes Patterns
 
 # Algorithms
 
-Raft Algorithm
+1. Raft Algorithm
 
 
 # Run Books

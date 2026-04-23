@@ -1,0 +1,193 @@
+
+```
+## Topics covered
+
+- Microsoft Entra ID Management
+- Azure RBAC and Governance
+- Virtual Machine Architecture
+- Managed Identities
+- External Identities and B2B/B2C
+- Privileged Identity Management
+- Scaling and Resiliency
+```
+
+- Object Type?
+	- What are object types in Entra ID
+- [[Azure Entra ID]]
+	- Azure Active Directory? EntraID?
+		- Hierarchical structure?
+			- AD Domain Service
+				- **Active Directory Domain Services (AD DS)**
+- [[Microsoft Graph]]?
+	- Primary standard API used to interact with EntraID and Office 365.
+- DNZ zone?
+	- Creating in DNZ zone.
+	- Records in DNZ zone
+		- Verification Records
+		- TXT or MX records
+- Group Based Assignment?
+- Guest Identity?
+	- B2B External user (Guest)?
+- Azure Service Provider?
+	- Azure VMWare Solutions (AVS)
+		- Managed VMware environment?
+- Entra ID
+	- impossible travel vs leaked credentials?
+		- Microsoft Entra Id Protection?
+	- Default Domain Suffix? for Entra Tenant?
+		- .onmicrosoft.com
+	- Entra Tenant?
+		- Azure Subscription vs Entra Tenant?
+	- External Tenant?
+		- user flows?
+		- attributes
+		- sign-in, sign-up?
+	- Protocol Support
+		- Do not support
+			- Kerberos (except for very specific limited scenario)
+				- which scenario?
+- Bulk Invite
+- CSV Template
+- Hybrid
+	- Hybrid identity Environment?
+	- Hybrid Authentication?
+		- Pass Through Authentication (PTA)
+			- zero delay blocking
+- Entra ID Groups?
+- Note : 
+	- Do not know anything about it got learn.
+- Group Types?
+	- Security Groups?
+	- Microsoft 365 Groups?
+- Types of group memberships?
+	- Dynamic membership
+	- attribute-defined rules?
+- side effects of granting permissions?
+- group object?
+- Entra ID licenses and levels?
+		- Microsoft Entra ID p1
+		- Microsoft Entra ID p2
+	- Conditional Access
+	- HR Driven Provisioning
+- Azure Identity Features?
+	- Microsoft Entra Registered?
+- Identities  
+	- System-assigned managed identity 
+	- user-assigned managed identity
+	- Privileged Identity Management (PIM)
+	- Identity Protection
+- self-service password reset (SSPR)
+	- Minimum Number of Authentication methods for high security?
+- Entra ID features?
+	- password writeback?
+- Roles
+	- RBAC roles?
+		- Contributor role?
+		- data plan role?
+	- User Access Administrator?
+	- Global Administrator Roles
+	- Azure RBAC vs Microsoft Entra Role?
+- Azure Hybrid Benefits
+- Security Principles 
+- Least Privilege?
+- Azure RBAC hierarchy scopes?
+	- MG -> SUB -> RG -> R
+	- Management Groups?
+- Just time in time (JIT) access?
+- Azure Resources
+	- Azure resources life cycles? 
+	- Azure Resource Locking?
+		- different types of locks?
+- standalone resources?
+- Azure vm process for token request?
+	- Azure Instance Metadata service (IMDS)
+		- (IMDS) IP Addresses?
+- Policy Engine?
+	- Conditional Access?
+- Service Principals?
+- Authentication Context?
+- Access Reviews?
+- phishing-resistant authentication?
+- passkeys or (windows hello world business)?
+- Monthly Active Users (MAU)?
+- Centralized repository?
+	- Azure Compute Gallery?
+- auto scaling engine?
+- VMSS? VMSS orchestration mode?
+	- flexible vs uniform orchestration?
+	- Predictive Auto-scale?
+	- instance protection
+		- scale-in event?
+- spot instances in azure?
+- Temporary Storage (Temp Disk)
+- Microsoft Entra External ID (formerly B2C)
+- Entra B2B?
+- MFA?
+- compliant devices?
+- Cross-Tenant Access settings (Trust Settings)
+- Azure VM
+	- VM Maintenance?
+		- Memory Preserving Host update?
+			- hypervisor?
+	- VM Insights
+		- Service Map (part of VM Insights)
+	- Proximity Placement Group?
+	- Azure VM Features
+		- availability zone
+		- on-demand capacity reservation?
+	- constrained virtual CPU?
+	- VM Disk
+		- Ephermeral OS disk/
+	- VM size
+		- Isolated VM
+	- Azure VM Generation?
+			- Generation 2 (Gen2)
+		- UEFI boot?
+		- virtual TPMs?
+		- boot Disks?
+	- Azure VM Configuration?
+		- IMDS
+		- User Data
+	- Azure Auto-manage?
+	- Azure VM Series?
+		- B-series
+			- burstable-vm series? 
+			- credit based system for CPU-performance?
+		- E-series
+	- VMSS?
+		- Max number of instances supported?
+		- VMMSS features?
+	- Notification
+		- Termination Notification
+	- Scale-in event?
+-  Password Hash Sync (PHS)?
+	- is a Event?
+	- leaked credentials detection?
+- Federation?
+- Entra ID Entitlement Management
+	- Access Packages?
+- Memeberships?
+	- Group Memberships?
+- Entra Features?
+	- Employee lifecycle?
+		- Life cycle workflows?
+			- joiner-mover-leaver?
+- Azure Pricing Calculator?
+- Tenant
+	- tenant properties
+		- Access management for azure resources?
+- Azure control panel?
+	- plane
+		- Azure Arch
+- Reserved Instance?
+- identity type?
+	- Service Principle (or managed identity)?
+- Privileged Identity Management (PIM)
+	- Eligible and Active assignment?
+- Permissions
+	- Inheritance Permissions?
+- Azure Portal 
+	- Azure copilot?
+		- configuration? Management? tasks.
+- Resource Tages?
+- Entra Features.
