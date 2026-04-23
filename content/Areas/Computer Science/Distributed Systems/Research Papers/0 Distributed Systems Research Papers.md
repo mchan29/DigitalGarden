@@ -1,0 +1,39 @@
+- Consensus
+	- Raft
+- Distributed Database
+	- Amazon Dynamo
+	- Apache Cassandra
+	- Amazon Aurora
+	- BigQuery
+	- BigTable
+	- Twitter cache clusters
+	- Cassandra
+	- Dremel
+	- Resilient Distributed Datasets (RDD) Spark
+	- Spanner
+- File System
+	- GFS
+	- ?????
+	- Frangipani
+- Distributed Lock
+	- Chubby lock service
+	- ZooKeeper
+- Distributed Transaction
+	- FoundationDB
+	- Farm
+- Fault Tolerance
+	- Byzantine Fault Tolerance
+	- Practical System for Fault-Tolerant
+- Global Auth
+	- Zanzibar
+- Log Processing
+	- Kafka
+- MapReduce
+	- MapReduce
+- Replication
+	- Chain Replication
+	- CRDT
+	- Object Storage on CRAQ
+	- Chain Replication for Supporting High Throughput and Availability
+- Serverless
+	- Firecracker

@@ -41,7 +41,7 @@
 
 - Paxos Protocol
 
-- Passive Replicatoin
+- Passive Replication
 
 - Active Replication
 
