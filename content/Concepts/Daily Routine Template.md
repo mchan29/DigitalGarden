@@ -1,0 +1,46 @@
+---
+tags:
+  - Routine
+  - Auto-Pilot
+---
+
+
+- Daily Routine Template
+  template:: Daily Routine
+	- # General Prompts
+		- what happened today?
+		- what is the story worth thing that happened to me today?
+		- Write about how do you feel today
+			- Write down anything painful event?
+		- Gratitude Journaling
+			- What are 3 things you are grateful for?
+	- # Gratitude
+	- # Highlight of the day
+	- # Challenge
+	- # Feelings/Reflections 
+		- **Action**
+		- **What went well?**
+		- **What did not go good?**
+	- # Self Advice 
+	- # Goals of tomorrow
+	- # Prompts
+		- How am I feeling today?
+		- How does my body feel today?
+		- What am I nervous or anxious about today?
+		- What actions can I take on each of the things that make me nervous or anxious?
+		- What are my top priorities for the day?
+		- What’s something I can do to make today amazing?
+		- What did I learn today? How can I apply this knowledge in the future?
+		- What challenges did I face today? How did I overcome them? What can I learn from these experiences?
+		- What did I do today that brought me joy or fulfillment? How can I incorporate more of these activities into my daily routine?
+		- What was a moment of joy, delight, or contentment today?
+		- What was a small detail I noticed today?
+		- What was the weather like today?
+		- What am I thankful for today?
+		- What could I have done differently today?
+		- How can I make tomorrow even better?
+	- # Routine
+		-  ( **MORNING** )
+			- TODO
+		-  ( **AFTERNOON** )
+		-  ( **NIGHT** )

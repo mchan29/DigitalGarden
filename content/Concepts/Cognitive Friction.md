@@ -1,0 +1,1 @@
+This is the mental effort required to learn a new interface, system, or habit. When you start a new routine, the "friction" is high because your brain hasn't built the neural pathways (the "autopilot") to handle the task yet.

@@ -1,0 +1,7 @@
+
+Obsidian
+
+Zotero
+
+Research Rabbit
+

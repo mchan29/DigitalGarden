@@ -1,0 +1,5 @@
+**Multiscale planning** is a comprehensive framework designed to gain **control over your time and obligations** by organizing your life at different time horizons rather than just focusing on the immediate moment. this system consists of three nested layers, allowing you to align your daily actions with long-term intentions.
+
+- **Quarterly Plans:** The highest level of organization, where you set broad, strategic **goals for the next three months**. This ensures your efforts are aimed in a good direction and that you are not merely reacting to urgent demands.
+- **Weekly Plans:** These plans are directly derived from the quarterly goals, providing a more granular structure for the upcoming week. This layer helps you **plan your time** and organize your obligations to make progress on those larger goals.
+- **Daily Time-Block Planning:** The most detailed level, where you map out your actual day based on the weekly plan. This involves creating a schedule for your hours, ensuring **no open loops** where obligations are left solely in your head. It is a vital step in **becoming a capable human** by intentionally directing your energy every single day.

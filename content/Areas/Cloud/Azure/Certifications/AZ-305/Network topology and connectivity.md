@@ -1,0 +1,40 @@
+
+
+- Connectivity Subscription
+	-  Azure DDoS Network Protection
+	- Azure DNS
+	- DNS Spoke Region 1
+		- Azure DNS Private Resolver
+	- VWAN HUB Region 1
+		- Azure Firewall
+		- VPN/ExpressRoute Gateways
+	- VWAN
+	- VWAN
+		- VWAN Region N
+			- Azure Firewall
+			- VPN/ExpressRoute Gateways
+		- DNS Spoke Region 1
+			- Azure DNS Private Resolver
+		- Azure Firewall Polices
+	- The Management and Governance Taxonomy
+		- Observability and Ops
+			-  Action Groups (AMBA-ALZ) 
+			- Alerts (AMBA-ALZ)
+			- Azure Update Manager
+			- Network Water
+		-  Governance
+			- Role Assignment
+			- Policy Assignment
+		- Financial 
+			- Cost Management
+		- Security
+			- Defender for cloud
+- Landing Zone A2 Subscription
+	- Action Groups (AMBA-ALZ) 
+	- Alerts (AMBA-ALZ)
+	- Cost Management
+	- Role Assignment
+	- Policy Assignment
+	- Network Water
+	- Defender for cloud
+	- Azure Update Manager

@@ -1,0 +1,7 @@
+**Cal Newport** outlining the critical pitfalls to avoid when establishing a **time management system**. Newport argues that the primary trap is treating your **weekly plan** as a "wish list" or a "storage device" for all tasks, rather than a realistic document of what will actually get done.
+
+**Key Takeaways:**
+
+- **The Optimal Scale of Planning:** Effective planning requires looking at multiple days at once—ideally a **one to two-week window**. This perspective is necessary to manage larger projects, allocate specific days for administrative work versus focused deep work, and move major tasks around like chess pieces to fit your schedule.
+- **Implementing Slow Productivity:** Newport advises against the anxiety-inducing habit of trying to do a little bit of work on every project every week. Instead, you should **focus on only one or two major projects** per week. This approach reduces cognitive load, raises the quality of output, and often leads to faster completion times than trying to multitask projects simultaneously.
+- **Avoiding the "Wish List" Trap:** Do not fall for the short-lived 10-minute "burst of pleasure" that comes from fantasizing about accomplishing everything on a massive list. Real, structured planning ensures you don't trade short-term fantasy for days of stress. Furthermore, Newport warns against using **time-block planning** as a magical solution to make impossible schedules work, comparing it to the luck-inducing "Felix Felicis" potion from Harry Potter—eventually, reality intervenes, and the plan falls apart.
