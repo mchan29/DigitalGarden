@@ -8,6 +8,8 @@ Actively Used Knowledge
 - [ ] Math.
 - [ ] English Language
 	- [ ] Reading Strategy
+- [ ] [[0 Azure Networking]]
+
 
 # Ideas to write about
 

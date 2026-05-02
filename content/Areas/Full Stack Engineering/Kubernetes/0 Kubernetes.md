@@ -13,7 +13,7 @@
 
 # Run Books
 
-[[Local Environment setup for Kubernetes certification practice]]
+[[Home Lab for Kubernetes certification practice]]
 
 
 # Certification
