@@ -20,7 +20,7 @@ Actively Used Knowledge
 	- [ ] Time Blocking
 	- [ ] GDT
 	- [ ] Other strategies which i use/used.
-- [ ] Burnout ==**partially-on-track
+- [ ] Burnout ==**partially-on-track==
 	- [ ] Brain Dump ( Closing open loop )
 	- [ ] Recovery
 	- [ ] Management
@@ -67,3 +67,6 @@ Actively Used Knowledge
 - [ ] Arena Based Memory Management. ==**partially-on-track**==
 - [ ] [[0 Distributed Systems Concepts]].  ==**partially-on-track**==
 - [ ] Database Research Papers. ==**partially-on-track**==
+
+
+

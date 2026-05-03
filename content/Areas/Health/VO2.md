@@ -2,7 +2,7 @@
 
 1. Mitochondrial Power
 2. Insulin Sensitivity
-3. Longevity Benchmark
+3. [[Longevity Benchmark]]
 
 How HIIT Improves VO2 Max?
 

@@ -1,3 +1,9 @@
+---
+tags:
+  - seed
+---
+
+
 > Math concepts i am actively using to solve Algorithmic Problems.
 
 [[Prime Numbers]]
