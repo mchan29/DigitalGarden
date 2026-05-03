@@ -2,8 +2,6 @@
 tags:
   - tree
 ---
-
-
 ## Core
 
 [[Programming]]

@@ -1,4 +1,3 @@
-
 Kubernetes Network Model
 
 1. Service

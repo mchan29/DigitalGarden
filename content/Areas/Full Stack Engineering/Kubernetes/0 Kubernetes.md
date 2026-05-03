@@ -7,8 +7,6 @@
 4. Kubernetes Architecture
 5. Kubernetes Patterns
 
-6. 
-
 # Algorithms
 
 1. Raft Algorithm
@@ -31,3 +29,8 @@
 # Coupons
 
 1. [techiescamp/linux-foundation-coupon: Latest Linux Foundation Coupon Codes For Certification, Courses, Skillcreds, IT Professional Programs and Skillcreds](https://github.com/techiescamp/linux-foundation-coupon)
+
+
+# Tools
+
+- [Sonobuoy](https://sonobuoy.io/)
