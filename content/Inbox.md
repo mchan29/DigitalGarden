@@ -1,5 +1,4 @@
 Active Tracking
-
 # Todo
 Actively Used Knowledge
 - [ ] Add Research
@@ -10,9 +9,7 @@ Actively Used Knowledge
 	- [ ] Reading Strategy
 - [ ] [[0 Azure Networking]]
 
-
 # Ideas to write about
-
 - [ ] Math, Competitive Programming Olympiad ==*off-track*==
 - [ ] Job Hunting Strategies
 - [ ] Productivity
@@ -39,13 +36,13 @@ Actively Used Knowledge
 	- [ ] The Generation Effect
 	- [ ] The Enactment Effect
 
-## Writings
 
+## Writings
 - [ ] Strategy based  decision making LLM offload
 - [ ] Second Brain Agentic Emulation
 
-## Projects
 
+## Projects
 - [ ] Certification. ==(on-track)==
 	- [ ] [[0 AZ-104]]
 	- [ ] [[0 AZ-204]]
@@ -61,8 +58,9 @@ Actively Used Knowledge
 - [ ] Blog Projects. ==(on-track)==
 - [ ] Open Source Projects. ==**partially-on-track**==
 	- [ ] Implementing Research Papers
-## Blog Ideas
 
+
+## Blog Ideas
 - [ ] LLM Inference Engine. ==*off-track*==
 - [ ] Arena Based Memory Management. ==**partially-on-track**==
 - [ ] [[0 Distributed Systems Concepts]].  ==**partially-on-track**==

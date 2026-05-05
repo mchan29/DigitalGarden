@@ -1,5 +1,8 @@
 Welcome to  my [[Digital Garden]]. Read my blogs at [chandu.cc](https://chandu.cc/)
+
 What i am thinking about? [[Inbox]]
+
+> you can delegate your thinking, but not your understanding.
 
 ### [[Naval Ravikant]]
 

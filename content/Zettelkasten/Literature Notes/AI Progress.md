@@ -5,6 +5,8 @@ tags:
   - LLM
   - research
 ---
+ 
+
 * Past
 		* 2012 - 2020
 			* age of research.
@@ -29,6 +31,8 @@ tags:
 		* belief  
 	* now 
 		* age of research again it just computers.
+
+
 
 
 # Related
