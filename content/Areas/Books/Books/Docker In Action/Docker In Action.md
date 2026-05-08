@@ -28,7 +28,16 @@ Part 3 Higher-level abstractions and orchestration
 - How does service health works? 
 - how do we rollback?
 
+12. first-class configuration abstractions
 
+13. orchestrating services on a cluster of docker hosts with swarm
+
+264
+- How docker application deployments work and options?
+- Deploying a multitier application to Docker swarm
+- how swarm attempts to converge docker application deployment to the desired state declared by operators?
+- Routing of request traffic from a cluster node to network service instances and how collaborating services reach each other using Docker networks
+- Controller placement of Docker Service containers "with in the cluster".
 
 
 ## Key Ideas

@@ -1,9 +1,9 @@
 ---
 tags:
-  - fleeting
   - ai
   - LLM
   - research
+  - fleeting
 ---
  
 
@@ -31,7 +31,6 @@ tags:
 		* belief  
 	* now 
 		* age of research again it just computers.
-
 
 
 
