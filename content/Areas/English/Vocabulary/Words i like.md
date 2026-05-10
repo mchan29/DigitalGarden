@@ -1,2 +1,7 @@
 Catalyst
-Paradox
+[[Paradox]]
+Ingenious
+[[Epiphany]]
+Cliche
+Eerie
+Conundrum

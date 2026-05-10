@@ -1,0 +1,7 @@
+- Great tool to ham stuff in, "Blank canvas problem".
+- People loosing craft of hand writing code.
+- Forgotten knowledge.
+- There will always be a place and value for hand written code over LLM generation.
+- LLM as truth Machine. 
+- Human Code review bottleneck.
+- Generating repeated code.

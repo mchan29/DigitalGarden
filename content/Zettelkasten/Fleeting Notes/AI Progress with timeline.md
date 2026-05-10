@@ -5,8 +5,6 @@ tags:
   - research
   - fleeting
 ---
- 
-
 * Past
 		* 2012 - 2020
 			* age of research.
