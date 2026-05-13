@@ -36,6 +36,8 @@ Actively Used Knowledge
 	- [ ] The Generation Effect
 	- [ ] The Enactment Effect
 - [ ] How to think grammar?
+- [ ] BMAD Framework.
+- [ ] Spec driven development. 
 
 
 ## Writings
