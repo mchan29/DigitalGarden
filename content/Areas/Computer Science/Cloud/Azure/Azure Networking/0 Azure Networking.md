@@ -31,6 +31,10 @@
 		4. Container network observability
 
 
+
+
+
+
 # Azure Networking Concepts
 
 1. Virtual Networking Basics (VNet)
@@ -72,7 +76,14 @@
 37. Close
 
 
+
+
+
+
+
 # Azure Networking Architecture
+
+
 
 
 # Network Topology
@@ -84,6 +95,8 @@
 5. Azure DNS Private Resolver
 
 
+
+
 # Production 
 
 1. High Availability
@@ -91,3 +104,5 @@
 3. Hub-and-spoke topology
 4. Virtual WAN
 5. Multiregional Networking
+
+

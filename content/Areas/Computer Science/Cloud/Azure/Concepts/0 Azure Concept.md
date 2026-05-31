@@ -16,6 +16,23 @@ Azure DDOS Protection
 Azure Traffic Manager
 
 
+
+
+[[Azure Monitor]]
+
+[[Azure Adviser]]
+
+[[Azure Service Health]]
+
+[[Log Analytics]]
+
+[[Alerts]]
+
+[[Application Insights]]
+
+
+
+
 ---
 ### Compute 
 
