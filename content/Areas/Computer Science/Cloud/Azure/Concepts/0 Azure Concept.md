@@ -1,4 +1,10 @@
 
+[[What is Cloud Computing - Microsoft’s definition]]
+
+[[Shared responsibility model]]
+
+
+
 [[Azure Concept Note Template]]
 
 

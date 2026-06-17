@@ -32,7 +32,7 @@ Accessing pod metadata and other resources from applications
 Deployments : updating applications declaratively 
 
 
-StatefulSets : deploying replicated stateful applications
+Stateful Sets : deploying replicated stateful applications
 
 
 
