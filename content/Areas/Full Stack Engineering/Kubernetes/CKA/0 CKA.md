@@ -34,3 +34,5 @@
 4. Use the Gateway API to manage Ingress traffic
 5. Know how to use Ingress controllers and Ingress resources
 6. Understand and use CoreDNS
+
+
