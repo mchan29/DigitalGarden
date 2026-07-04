@@ -5,7 +5,7 @@
 
 [siddontang on X: "The Database Is No Longer Storage - It Is Becoming the Runtime for AI" / X](https://x.com/siddontang/status/2050409724949270783)
 
-
+[Brain study suggests how students learn from mistakes | USC Rossier School of Education](https://rossier.usc.edu/news-insights/news/brain-study-suggests-how-students-learn-mistakes)
 
 # Books
 
