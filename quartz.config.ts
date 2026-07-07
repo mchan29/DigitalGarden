@@ -24,31 +24,31 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        body: "Iosevka Etoile",
+        code: "Iosevka",
       },
-      colors: {
+     colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#fbfbfb",         // Primary background
+          lightgray: "#e4e4e7",     // Borders, modifiers, structural rules
+          gray: "#71717a",          // Muted text, metadata lines
+          darkgray: "#1f1f23",      // Normal body text
+          dark: "#18181b",          // Strong accent text / Base Titles
+          secondary: "#3730a3",     // Indigo Link Accent Color
+          tertiary: "#0f766e",      // Teal Link Accent Hover Color
+          highlight: "rgba(99, 102, 241, 0.15)", // Content selection tint
+          textHighlight: "rgba(234, 179, 8, 0.3)", // Yellow markdown highlight
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#050506",         // Primary deep dark background
+          lightgray: "#16161a",     // Dark modifier border
+          gray: "#71717a",          // Dark muted text / lines
+          darkgray: "#b9b9bc",      // Crisp readable light-grey body text
+          dark: "#f4f4f5",          // Bright white titles
+          secondary: "#6366f1",     // Vivid Indigo Link Accent
+          tertiary: "#14b8a6",      // Vivid Teal Link Accent Hover
+          highlight: "rgba(99, 102, 241, 0.25)", // Content selection tint
+          textHighlight: "rgba(99, 102, 241, 0.35)", // Deep blue markdown highlight
         },
       },
     },
