@@ -15,3 +15,9 @@ https://x.com/justinskycak
 > -- Justin Skycak
 > ![[Pasted image 20260704011141.png]]
 > https://x.com/justinskycak/status/2072900034379538785?s=20
+
+
+https://x.com/justinskycak/status/2074331548342538696?s=20
+
+https://x.com/justinskycak/status/2074331548342538696?s=20
+

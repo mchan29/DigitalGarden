@@ -34,6 +34,9 @@ The Forgetting Curve
 
 Cognitive Load Theory
 
+[[Math Acadmy]]
+https://x.com/justinskycak/status/2074376893067911436?s=20
+![[Pasted image 20260709202113.png]]
 
 
 

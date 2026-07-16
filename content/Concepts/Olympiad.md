@@ -2,6 +2,6 @@
 
 [[Math Olympiad]]
 
-[[Competitive Programming Olympiad]]
+[[0 Competitive Programming Olympiad]]
 
 
