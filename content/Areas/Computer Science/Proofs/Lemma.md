@@ -1,0 +1,1 @@
+A helping theorem. A lemma is proven true, just like a theorem, but is not interesting or important enough to be a theorem. It is of interest only because it is a stepping stone towards the proof of a theorem.
