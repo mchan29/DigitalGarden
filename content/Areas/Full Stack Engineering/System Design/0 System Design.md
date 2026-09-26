@@ -1,6 +1,10 @@
 
 
 
+Write head log
+
+
+
 
 ## 1. Database Internals & Storage
 

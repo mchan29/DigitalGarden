@@ -2,10 +2,10 @@
 
 Goals 
 
-[[Leetcode]]  Ranks : (goal is to read Knight -> Guardian)
+[[Leetcode]]  Ranks : (goal is to reach Knight -> Guardian)
 - **Knight:** ≥ 1900 (Top 5% globally)
-- **Guardian:** ≥ 2100 (Top 1%)
-- **Target Guardian:** ≥ 2400
+- **Guardian:** ≥ 2100 (Top 1% globally)
+- **Target Guardian:** ≥ 2400 (Top 0.1% globally)
 
 
 
@@ -67,11 +67,17 @@ Ad-Hoc Problem solving.
 
 # Blogs
 
+
+[AtCoder Algorithm Lectures - AtCoderInfo](https://info.atcoder.jp/entry/algorithm_lectures/index)
+
+
+[[Inclusion and Exclusion Principle]].
+
 # Combinatorics
 
 [[Educational] Combinatorics Study Notes (1) - Codeforces](https://codeforces.com/blog/entry/110376)
 
-[[CP Combinatorics]]
+[[CP Permutation and Combination.]]
 
 # Algorithms
 

@@ -16,3 +16,10 @@ https://x.com/naval/status/2014286249025298751?s=20
 > [!quote]
 > Self-directed learning through AIs is an autodidact’s paradise.
 
+
+https://x.com/danmartell/status/2101733176129278131?s=20
+
+> [!quote]
+> The poor buy distractions. The ambitious buy skills. The rich buy time.
+
+

@@ -3,6 +3,8 @@ tags:
   - tree
 ---
 
+[[Essential Machine Learning Concepts]]
+
 
 Support Vector Machines
 
@@ -19,5 +21,9 @@ CART - Classification and Regression Trees
 Random Forests
 
 Linear Regression and Linear Models.
+
+Statistics 
+
+[[K-Nearest Neighbors KNN]]
 
 

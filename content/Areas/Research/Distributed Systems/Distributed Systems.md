@@ -26,3 +26,8 @@
 26. Object Storage on CRAQ
 27. Chain Replication for Supporting High Throughput and Availability
 28. Firecracker
+
+
+# Concepts
+
+[[Sharding]]

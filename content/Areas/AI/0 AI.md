@@ -2,13 +2,12 @@
 [[AI Infrastructure]]
 
 
-
 # Machine Learning 
 
+[[0  Machine Leanring]]
 
 
 # Language Modeling 
-
 
 # [[Recurrent Neural Network]]
 
@@ -18,3 +17,4 @@
 
 # Large Language Model
 
+[[0 LLM]]

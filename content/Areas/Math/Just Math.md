@@ -13,7 +13,7 @@ tags:
 
 [[Calculus]]
 
-[[Statistics]]
+[[0 Statistics]]
 
 Counting & Probability 
 
