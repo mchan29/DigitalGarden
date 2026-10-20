@@ -5,10 +5,11 @@
 
 
 [[Active Recall]]
+[[Ebbinghaus's forgetting curve (Forgetting curve)]]
 
 Retrieval Practice
 
-Spaced Repetition
+[[Spaced Repetition]]
 
 Interleaving
 
@@ -27,12 +28,13 @@ Experiential Learning
 Deliberate Practice
 
 
-
 Constructivist Theory
 
 The Forgetting Curve
 
 Cognitive Load Theory
+
+[[Reading Skills]]
 
 [[Math Acadmy]]
 https://x.com/justinskycak/status/2074376893067911436?s=20
